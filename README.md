@@ -25,6 +25,10 @@
 #### * symmetry
 #### * fractal dimension ("coastline approximation" - 1)
 
+## Machine Learning Model
+
+#### For our ml model we will start with converterning our dataset to categorical data or text data into numbers so our predictive model works better, we will split the data into training 
+
 ## Resources:
 
 #### * Data Source: [data_diagnosis.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9646405/data_diagnosis.csv), [data_mean.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9646407/data_mean.csv), [data_mean.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9646408/data_mean.csv), [data_se.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9646409/data_se.csv), [data_worst.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9646410/data_worst.csv), [data.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9646413/data.csv)
