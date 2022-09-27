@@ -26,7 +26,7 @@ We will use 4 different .csv files listed above that contain related information
 * compactness (perimeter^2 / area - 1.0)
 * concavity (severity of concave portions of the contour)
 * concave points (number of concave portions of the contour)
-* symmetry
+* symmetry (how the cell divides)
 * fractal dimension ("coastline approximation" - 1)
 
 ## Questions to Answer
