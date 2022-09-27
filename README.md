@@ -54,4 +54,4 @@ Below, we included a visualized model:
 ## Database
 Below, we included an ERD from our database built in Postgres SQL. 
 
-<img width="468" alt="ERD" src="https://user-images.githubusercontent.com/105119376/192317208-52e68044-61d0-48bd-a09a-945f07c17ca8.png">
+<img width="976" alt="ERD" src="https://user-images.githubusercontent.com/105119376/192406271-d2b2b69a-81f3-4caf-bec1-4d07d96a5cd4.png">
