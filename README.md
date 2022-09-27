@@ -10,11 +10,10 @@ In this project, our team will use data from the Wisconsin University Research L
 * This information can be used by healthcare professionals to help with early detection that will significantly increase the chance of recovery.
 
 ## Data Sources
-[data_diagnosis.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9648862/data_diagnosis.csv),
-[data_mean.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9648863/data_mean.csv),
-[data_se.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9648864/data_se.csv),
-[data_worst.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9648866/data_worst.csv),
-[data.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9648867/data.csv)
+[data_diagnosis.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650582/data_diagnosis.csv),
+[data_mean.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650583/data_mean.csv),
+[data_se.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650584/data_se.csv),
+[data_worst.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650585/data_worst.csv)
 
 We will use 4 different .csv files listed above that contain related information obtained by a study in the Winsconsin University Research Lab. The datasets contain the following information:
 * Diagnosis (M = malignant, B = benign) (3-32)
