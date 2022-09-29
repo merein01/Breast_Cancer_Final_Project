@@ -51,7 +51,8 @@ Below, we included a visualized model:
 * MatPlotLib to create charts and graphs as part of Data Visualizations
 
 ## Database
-Below, we included an ERD from our database built in Postgres SQL. 
+Below, we included an ERD from our database built using QuickDBD to use with Postgres SQL. 
 
-<img width="1109" alt="ERD Diagram 1 to 1" src="https://user-images.githubusercontent.com/105119376/192914479-3e9f3d1c-d210-4d5e-8850-936844524dc3.png">
+<img width="674" alt="Screen Shot 2022-09-29 at 12 45 49 PM" src="https://user-images.githubusercontent.com/105124485/193090480-3a076673-0791-49b9-9bac-dc0f56e55fe3.png">
+
 
