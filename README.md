@@ -44,7 +44,7 @@ Below, we included a visualized model:
 ## Software Used:
 * PostgreSQL for creating and storing database
 * Jupyter Notebook
-* Google Collab Notebook
+* Google Colab Notebook
 * Extracting data from CSV file
 * Python for cleaning the data, creating data frames with pandas, merging, eliminating columns not needed, sklearn creating machine learning model
 * Tableau to create Dashboard and Visualizations
