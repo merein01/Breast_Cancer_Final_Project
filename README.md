@@ -50,8 +50,10 @@ Below, we included a visualized model:
 * Tableau to create Dashboard and Visualizations
 * MatPlotLib to create charts and graphs as part of Data Visualizations
 
-## Presentation
+## Presentation & Dashboard 
 Our working presentation can be found on Google Docs [here](https://docs.google.com/presentation/d/1b2XuOEt3PEXZWeotr5PsMwdkh_uWaGrsoeUxBRSQtpg/edit#slide=id.gc6f9e470d_0_0)
+
+Our working Dashboard can be found on Tableau Public [here](https://public.tableau.com/app/profile/gladys.robles/viz/BreastCancerProject_16650147492950/BreastCancerProject?publish=yes)
 
 ## Database
 Below, we included an ERD from our database built with QuickDBD for use with Postgres SQL. 
