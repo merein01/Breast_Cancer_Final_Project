@@ -58,5 +58,5 @@ Our working Dashboard can be found on Tableau Public [here](https://public.table
 ## Database
 Below, we included an ERD from our database built with QuickDBD for use with Postgres SQL. 
 
-<img width="916" alt="Screen Shot 2022-09-29 at 12 53 19 PM" src="https://user-images.githubusercontent.com/105124485/193092329-8e0fd95c-1379-4f92-9eb2-e024cd7dea08.png">
+<img width="708" alt="ERD Diagram - Breast Cancer Project" src="https://user-images.githubusercontent.com/105119376/194190995-f26ed3c7-3692-425e-ba6f-32fed9c610b3.png">
 
