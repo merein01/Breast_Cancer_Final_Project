@@ -16,6 +16,9 @@ In this project, our team will use data from the Wisconsin University Research L
 [data_worst.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650585/data_worst.csv)
 
 We will use 4 different .csv files listed above that contain related information obtained by a study in the Winsconsin University Research Lab. The datasets contain the following information:
+
+ID and Diagnosis make up the first 2 columns
+Line 3-32 are composed of ten featured values:
 * Diagnosis (M = malignant, B = benign) (3-32)
 * radius (mean of distances from center to points on the perimeter)
 * texture (standard deviation of gray-scale values)
@@ -27,6 +30,11 @@ We will use 4 different .csv files listed above that contain related information
 * concave points (number of concave portions of the contour)
 * symmetry (how the cell divides)
 * fractal dimension ("coastline approximation" - 1)
+
+Each by 3 different data types :
+* Mean
+* SE
+* Worst
 
 ## Questions to Answer
 * What trends can we discover that leads to a malignant or benign diagnosis?
