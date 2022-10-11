@@ -37,9 +37,9 @@ Each by 3 different data types :
 * Worst
 
 ## Questions to Answer
-* What trends can we discover that leads to a malignant or benign diagnosis?
-* How do different tumor cells characteristics affect malignant or benign diagnosis?
-* Can we design a model that can increase diagnostics accuracy rate, increase survival rates by early detection and reduce misdiagnosis?
+* 1-What trends can we discover that leads to a malignant or benign diagnosis?
+* 2-How do different tumor cells characteristics affect malignant or benign diagnosis?
+* 3-Can we design a model that can increase diagnostics accuracy rate, increase survival rates by early detection and reduce misdiagnosis?
 
 ## Communication Protocols 
 In order to stay up to date on the final project, we message each other frequently through Slack on a seperate channel created for the project. Any other questions or concerns that arise are addressed during class, in our group organized Zoom meetings outside of class, and during office hours with the TA. 
