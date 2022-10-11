@@ -78,10 +78,10 @@ insert tableue image here
 Below, we included an ERD from our database built with QuickDBD for use with Postgres SQL. 
 The program lets you create a table with various relationships types
 Common relationship types are:
-* -     - one TO one
-* -<    - one TO many
-* >-    - many TO one
-* >-<   - many TO many
+* - one TO one
+* - one TO many
+* - many TO one
+* - many TO many
 
 <img width="708" alt="ERD Diagram - Breast Cancer Project" src="https://user-images.githubusercontent.com/105119376/194190995-f26ed3c7-3692-425e-ba6f-32fed9c610b3.png">
 
