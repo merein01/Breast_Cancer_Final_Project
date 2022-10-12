@@ -55,11 +55,19 @@ In order to stay up to date on the final project, we message each other frequent
 
 ## Visualization of Classes
 
+<img width="545" alt="Classes_Code" src="https://user-images.githubusercontent.com/105119376/195461389-d507f3d2-5d7f-4c43-b91d-15c6a83a2df8.png">
+
 <img width="515" alt="classes" src="https://user-images.githubusercontent.com/105119376/194986752-40479e8a-dcb6-44a6-8d68-596c3c20360e.png">
+
+Both classes (malignant, benign) were recoded as 0 for benign and 1 for malignant. We first created a bar graph as a visualization to show both the amount and percentage of cells that were diagnosed as either benign or malignant. The total number of cells that were labled benign was 357, and the total number of cells that were labeled malignant was 212. The percentage of benign cells was 63%, and the pecentage of malignant cells was 37%. We included a screenshot of the code that was run to produce the bar graph with both classes recoded as 0 and 1. The value_counts method was used to show the unique values for both clases and for our output to print the total number and pecetnage of both classes. 
 
 ## Features sample
 
+<img width="558" alt="Features_Code" src="https://user-images.githubusercontent.com/105119376/195461515-8a429ac9-73df-4fae-b4cc-5f4d4af86732.png">
+
 <img width="741" alt="feautres" src="https://user-images.githubusercontent.com/105119376/194986778-e00a9999-e90f-4bfb-b78e-7d40b4605935.png">
+
+The code that was run created 32 seperate scatter plots for each feature that was analyzed for this project. We included a screenshot of 2 seperate scatter plots of the features: perimeter_mean and area_mean.  
 
 ## Machine Learning Model
 For our machine learning model, we will start with converting our dataset to categorical data or text data into numbers so our predictive model works better. Then, we will split the data into training data and test data. The training data contains a known output and the model learns with this data in order to be generalized to other data late on. The test data is used to test our model's prediction on this subset by using the train_test_split method. We will then scale the data within a specific sale, such as 0-100 or 0-1 by using the StandardScaler method from the SciKit-Learn library. We will finally use supervised machine learning Classification models such as **logistic regression** to evaluate our results. 
