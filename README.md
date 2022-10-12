@@ -13,9 +13,10 @@ In this project, our team will use data from the Wisconsin University Research L
 [data_diagnosis.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650582/data_diagnosis.csv),
 [data_mean.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650583/data_mean.csv),
 [data_se.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650584/data_se.csv),
-[data_worst.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650585/data_worst.csv)
+[data_worst.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9650585/data_worst.csv),
+[Metrics_Database.csv](https://github.com/merein01/Breast_Cancer_Final_Project/files/9769306/Metrics_Database.csv)
 
-We will use 4 different .csv files listed above that contain related information obtained by a study in the Winsconsin University Research Lab. The datasets contain the following information:
+We first used 4 different CSV files listed above that contain related information obtained by a study in the Winsconsin University Research Lab. We then used PostgresSQL to join the tables together and created one final joined table and a new CSV file, Metrics_Database. The dataset contains the following information:
 
 ID and Diagnosis make up the first 2 columns
 Line 3-32 are composed of ten featured values:
