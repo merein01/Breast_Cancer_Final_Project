@@ -74,7 +74,7 @@ The code that was run created 32 seperate scatter plots for each feature that wa
 For our machine learning model, we will start with converting our dataset to categorical data or text data into numbers so our predictive model works better. Then, we will split the data into training data and test data. The training data contains a known output and the model learns with this data in order to be generalized to other data late on. The test data is used to test our model's prediction on this subset by using the train_test_split method. We will then scale the data within a specific sale, such as 0-100 or 0-1 by using the StandardScaler method from the SciKit-Learn library. We will finally use supervised machine learning Classification models such as **logistic regression** to evaluate our results. 
 Below, we included a visualized model: 
 
-![Machine_Learning_Model](https://user-images.githubusercontent.com/105119376/192317658-fe9da560-8450-47a9-9639-751520005fb0.png)
+![new EDA](https://user-images.githubusercontent.com/105119376/196307235-76e8c922-6641-4691-b3c9-794cde4f8aec.png)
 
 ## Presentation & Dashboard 
 Our working presentation can be found on Google Docs [here](https://docs.google.com/presentation/d/1b2XuOEt3PEXZWeotr5PsMwdkh_uWaGrsoeUxBRSQtpg/edit#slide=id.gc6f9e470d_0_0)
