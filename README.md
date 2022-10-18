@@ -3,7 +3,7 @@
 "This is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning." - Winston Churchill.
 
 ## Overview
-In this project, our team will use data from the Wisconsin University Research Lab in order to identify breast cancer using historical data to help predict malignant or benign cancer trends. The Project will be divided in different segments to demonstrate our skills with the different tools learned in class. First off we will clean and process the data and build a database with SQL. Second with 70% of our data, we will build machine learning model that is trained to classify the information and predict the trend. Third, we will build different visualizations of the whole project with Tableau to finalize the project with our results.
+In this project, our team will use data from the Wisconsin University Research Lab in order to identify breast cancer using historical data to help predict malignant or benign cancer trends. The Project will be divided in different segments to demonstrate our skills with the different tools learned in class. First off we will clean and process the data and build a database with SQL. Second with 75% of our data, we will build machine learning model that is trained to classify the information and predict the trend. Third, we will build different visualizations of the whole project with Tableau to finalize the project with our results.
 
 ## Reason for Selecting Topic
 * We want to build a model that will predict whether the cancer is benign or malignant based on characteristics of the tumor cells.
