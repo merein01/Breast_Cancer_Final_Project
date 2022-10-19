@@ -113,3 +113,14 @@ Out of those 171 cases, the classifier predicted "yes" 107 times, and "no" 64 ti
 A histogram is a graph that shows the frequency of numerical data using rectangles. The height of a rectangle (the vertical axis) represents the distribution frequency of a variable (the amount, or how often that variable appears). A histogram is the most commonly used graph to show frequency distributions.
 
 <img width="563" alt="histogram" src="https://user-images.githubusercontent.com/105119376/194987116-3ef10a42-b063-4357-b1be-36af8b01cde7.png">
+
+## Summary 
+Modern machine learning algorithms can be used to help predict a diagnosis as proven in our project.
+
+**Trends**: Have positive correlation between our diagnosis and our features: radius, perimeter, area, concave points for  the mean, se, and worst
+
+**Characteristics**: Most characteristics for the malignant cells have unusual sizes and tends to be bigger.
+
+**Benefits**: The benefits of our model are that we have a 97% accuracy for our average weighted predictions.
+
+<img width="168" alt="Conclusion" src="https://user-images.githubusercontent.com/105119376/196754852-068aebbb-b34b-45e1-b643-7cfbdb094c7e.png">
